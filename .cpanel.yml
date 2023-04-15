@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/dkla3008/public_html/
+    - /bin/cp d-klasifikasi.py $DEPLOYPATH
+    - /bin/cp requirements.txt $DEPLOYPATH
