@@ -1,0 +1,7 @@
+streamlit
+streamlit-option-menu
+sastrawi
+pandas==1.1.3
+regex==2020.10.15
+nltk==3.5
+scikit-learn==1.2.2
